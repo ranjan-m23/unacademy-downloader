@@ -1,4 +1,4 @@
-certifi==2018.1.18
+certifi==2022.12.7
 requests==2.18.4
 selenium==3.141.0
 urllib3==1.22
